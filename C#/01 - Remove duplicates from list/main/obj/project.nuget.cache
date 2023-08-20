@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQNvcLnQpkOoj/7x74hJ9d/wI4AEmxJCtHQv5FVaR++cufFQhdE1VnsdP+OqmbSnDq3n/ZeTYT0AxSNzcTWa0w==",
+  "success": true,
+  "projectFilePath": "d:\\Personal\\ghifarullah19\\Code\\codewars\\C#\\01 - Remove duplicates from list\\main\\main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghifarullah19\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ghifarullah19\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ghifarullah19\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ghifarullah19\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

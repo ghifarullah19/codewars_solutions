@@ -1,0 +1,14 @@
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\bin\Debug\net7.0\00 - Template.exe
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\bin\Debug\net7.0\00 - Template.deps.json
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\bin\Debug\net7.0\00 - Template.runtimeconfig.json
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\bin\Debug\net7.0\00 - Template.dll
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\bin\Debug\net7.0\00 - Template.pdb
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.AssemblyInfoInputs.cache
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.AssemblyInfo.cs
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.csproj.CoreCompileInputs.cache
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.dll
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\refint\00 - Template.dll
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.pdb
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\00 - Template.genruntimeconfig.cache
+D:\Personal\ghifarullah19\Code\codewars\C#\00 - Template\obj\Debug\net7.0\ref\00 - Template.dll

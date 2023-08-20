@@ -1,0 +1,15 @@
+D:\Documents\codewars\C#\00 - Template\main\bin\Debug\net6.0\main.exe
+D:\Documents\codewars\C#\00 - Template\main\bin\Debug\net6.0\main.deps.json
+D:\Documents\codewars\C#\00 - Template\main\bin\Debug\net6.0\main.runtimeconfig.json
+D:\Documents\codewars\C#\00 - Template\main\bin\Debug\net6.0\main.dll
+D:\Documents\codewars\C#\00 - Template\main\bin\Debug\net6.0\main.pdb
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.csproj.AssemblyReference.cache
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.AssemblyInfo.cs
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.dll
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\refint\main.dll
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.pdb
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\main.genruntimeconfig.cache
+D:\Documents\codewars\C#\00 - Template\main\obj\Debug\net6.0\ref\main.dll
